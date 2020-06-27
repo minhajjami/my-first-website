@@ -1,0 +1,61 @@
+#signIn{
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 448px;
+    width: 30%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 80px 450px;
+    padding: 30px 40px;
+    box-shadow:0.5px 0.5px #888888;
+}
+
+.link{
+    color:rgb(23, 73, 221);
+    font-size: medium;
+    font-weight: bold;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3,h4 {
+    text-align: center;
+    font-weight:normal;
+}
+
+h3{
+    font-weight: bolder;
+}
+
+p{
+    display: inline;
+}
+
+#email{
+    height: 50px;
+    width: 400px;
+}
+
+.forgot{
+    display: block;
+    height: 60px;
+}
+button{
+    background-color: rgb(23, 73, 221); 
+    border-radius: 5px;
+    color: white;
+    padding: 10px 32px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bolder;
+    cursor: pointer;   
+    float: right; 
+}
+
+.lastelement{
+    margin-top: 100px;
+}
+
